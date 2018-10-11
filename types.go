@@ -1,4 +1,4 @@
-package cfgtypes
+package gotypes
 
 // Log - параметры логера
 type Log struct {
